@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">This is the hint</string>
+    <string name="actionLabel">Action Label</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
