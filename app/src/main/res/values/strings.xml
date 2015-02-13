@@ -3,7 +3,7 @@
 
     <string name="app_name">Hello</string>
     <string name="hello_world">Hello world!</string>
-    <string name="hint">This is the hint</string>
+    <string name="hint">This is the hint...</string>
     <string name="actionLabel">Action Label</string>
     <string name="action_settings">Settings</string>
 
